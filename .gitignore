@@ -2,3 +2,4 @@ node_modules/
 browser/node_moduels/
 .DS_Store
 .idea
+package-lock.json
